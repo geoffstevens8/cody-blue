@@ -4,6 +4,9 @@
     "description": "A dark blue theme.",
     "version": "0.0.1",
     "publisher": "thegeoffstevens",
+    "repository": {
+        "type": "git", 
+        "url": "https://github.com/geoffstevens8/cody-blue", 
     "icon": "images/icon.png",
     "engines": {
         "vscode": "^1.31.0"
