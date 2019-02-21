@@ -1,0 +1,23 @@
+{
+    "name": "cody-blue",
+    "displayName": "Cody Blue",
+    "description": "A dark blue theme.",
+    "version": "0.0.1",
+    "publisher": "thegeoffstevens",
+    "icon": "images/icon.png",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cody Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cody Blue-color-theme.json"
+            }
+        ]
+    }
+}
